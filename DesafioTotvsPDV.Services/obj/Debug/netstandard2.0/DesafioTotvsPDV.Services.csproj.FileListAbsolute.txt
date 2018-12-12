@@ -1,0 +1,16 @@
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Services\obj\Debug\netstandard2.0\DesafioTotvsPDV.Services.csprojAssemblyReference.cache
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Services\obj\Debug\netstandard2.0\DesafioTotvsPDV.Services.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Services\obj\Debug\netstandard2.0\DesafioTotvsPDV.Services.AssemblyInfoInputs.cache
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Services\obj\Debug\netstandard2.0\DesafioTotvsPDV.Services.AssemblyInfo.cs
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Services\bin\Debug\netstandard2.0\DesafioTotvsPDV.Services.deps.json
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Services\bin\Debug\netstandard2.0\DesafioTotvsPDV.Services.dll
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Services\bin\Debug\netstandard2.0\DesafioTotvsPDV.Services.pdb
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Services\bin\Debug\netstandard2.0\DesafioTotvsPDV.Business.dll
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Services\bin\Debug\netstandard2.0\DesafioTotvsPDV.Data.dll
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Services\bin\Debug\netstandard2.0\DesafioTotvsPDV.Domain.dll
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Services\bin\Debug\netstandard2.0\DesafioTotvsPDV.Business.pdb
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Services\bin\Debug\netstandard2.0\DesafioTotvsPDV.Data.pdb
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Services\bin\Debug\netstandard2.0\DesafioTotvsPDV.Domain.pdb
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Services\obj\Debug\netstandard2.0\DesafioTotvsPDV.Services.csproj.CopyComplete
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Services\obj\Debug\netstandard2.0\DesafioTotvsPDV.Services.dll
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Services\obj\Debug\netstandard2.0\DesafioTotvsPDV.Services.pdb

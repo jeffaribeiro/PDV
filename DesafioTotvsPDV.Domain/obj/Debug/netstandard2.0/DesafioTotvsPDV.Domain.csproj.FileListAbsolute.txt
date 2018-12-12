@@ -1,0 +1,9 @@
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Domain\bin\Debug\netstandard2.0\DesafioTotvsPDV.Domain.deps.json
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Domain\bin\Debug\netstandard2.0\DesafioTotvsPDV.Domain.dll
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Domain\bin\Debug\netstandard2.0\DesafioTotvsPDV.Domain.pdb
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Domain\obj\Debug\netstandard2.0\DesafioTotvsPDV.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Domain\obj\Debug\netstandard2.0\DesafioTotvsPDV.Domain.AssemblyInfoInputs.cache
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Domain\obj\Debug\netstandard2.0\DesafioTotvsPDV.Domain.AssemblyInfo.cs
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Domain\obj\Debug\netstandard2.0\DesafioTotvsPDV.Domain.dll
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Domain\obj\Debug\netstandard2.0\DesafioTotvsPDV.Domain.pdb
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Domain\obj\Debug\netstandard2.0\DesafioTotvsPDV.Domain.csprojAssemblyReference.cache

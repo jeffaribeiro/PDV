@@ -1,0 +1,14 @@
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Business\bin\Debug\netstandard2.0\DesafioTotvsPDV.Business.deps.json
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Business\bin\Debug\netstandard2.0\DesafioTotvsPDV.Business.dll
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Business\bin\Debug\netstandard2.0\DesafioTotvsPDV.Business.pdb
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Business\bin\Debug\netstandard2.0\DesafioTotvsPDV.Data.dll
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Business\bin\Debug\netstandard2.0\DesafioTotvsPDV.Domain.dll
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Business\bin\Debug\netstandard2.0\DesafioTotvsPDV.Data.pdb
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Business\bin\Debug\netstandard2.0\DesafioTotvsPDV.Domain.pdb
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Business\obj\Debug\netstandard2.0\DesafioTotvsPDV.Business.csprojAssemblyReference.cache
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Business\obj\Debug\netstandard2.0\DesafioTotvsPDV.Business.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Business\obj\Debug\netstandard2.0\DesafioTotvsPDV.Business.AssemblyInfoInputs.cache
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Business\obj\Debug\netstandard2.0\DesafioTotvsPDV.Business.AssemblyInfo.cs
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Business\obj\Debug\netstandard2.0\DesafioTotvsPDV.Business.csproj.CopyComplete
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Business\obj\Debug\netstandard2.0\DesafioTotvsPDV.Business.dll
+C:\Users\Jefferson\source\repos\DesafioTotvsPDV\DesafioTotvsPDV.Business\obj\Debug\netstandard2.0\DesafioTotvsPDV.Business.pdb
